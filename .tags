@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+SQLRunner	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/bin/sql_runner.rb	/^class SQLRunner$/;"	class	line:3
+initialize	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/bin/sql_runner.rb	/^  def initialize(db)$/;"	method	line:7	class:SQLRunner
+make_methods	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/bin/sql_runner.rb	/^  def self.make_methods$/;"	singleton method	line:11	class:SQLRunner
+execute_sql	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/bin/sql_runner.rb	/^  def execute_sql(sql)$/;"	method	line:20
+Objectives:	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/README.md	/^#Objectives:$/;"	function	line:1
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
+highest_student_gpa	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/lib/students.rb	/^def highest_student_gpa$/;"	method	line:3
+lowest_student_gpa	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/lib/students.rb	/^def lowest_student_gpa$/;"	method	line:6
+average_student_gpa	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/lib/students.rb	/^def average_student_gpa$/;"	method	line:9
+total_tardies_for_all_students	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/lib/students.rb	/^def total_tardies_for_all_students$/;"	method	line:12
+average_gpa_for_9th_grade	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/lib/students.rb	/^def average_gpa_for_9th_grade$/;"	method	line:15
+students	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/lib/create.sql	/^CREATE TABLE students$/;"	table	line:1
+students.id	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/lib/create.sql	/^    (id INTEGER PRIMARY KEY,$/;"	field	line:2
+students.name	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/lib/create.sql	/^    (id INTEGER PRIMARY KEY,$/;"	field	line:2
+students.grade	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/lib/create.sql	/^    name TEXT,$/;"	field	line:3
+students.gpa	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/lib/create.sql	/^    grade INTEGER,$/;"	field	line:4
+students.tardies	/Users/manon/Development/code/sql-aggregate-functions-lab-london-web-career-031119/lib/create.sql	/^    gpa FLOAT,$/;"	field	line:5
